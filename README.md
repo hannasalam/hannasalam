@@ -4,7 +4,7 @@
 
 <!--I am a curious developer with a passion for learning and problem solving. I love meeting new people and getting to know their stories and experiences. -->
 
-```js
+```cs
 About Me
 -------------------------
 OS: POP!_OS
@@ -12,7 +12,6 @@ Pronouns: She/Her
 Location: Kerala, India
 Languages: JavaScript, HTML, CSS, C++, C, Python
 Technologies: Django, DRF, Node.js, Express, MongoDB, Git, Linux, Google Cloud
-Hobbies: Reading Books, Watching Movies
 ```
 
 <!--Trap--:)-->
