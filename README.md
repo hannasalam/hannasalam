@@ -1,6 +1,8 @@
+![](https://komarev.com/ghpvc/?username=hannasalam&color=red)
+
 # Hello, I am Hanna<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
 
-![](https://komarev.com/ghpvc/?username=hannasalam&color=red)
+
 
 <!--I am a curious developer with a passion for learning and problem solving. I love meeting new people and getting to know their stories and experiences. -->
 
