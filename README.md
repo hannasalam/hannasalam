@@ -24,6 +24,6 @@ Hobbies: Reading Books, Watching Movies
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanna-salam/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HannaSalam_)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/762106459982528552)
-<a href="mailto:hannasalam113@gmail.com">[![GMail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)]</a>
+<a href="mailto:hannasalam113@gmail.com">[![GMail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)]()</a>
 
 
