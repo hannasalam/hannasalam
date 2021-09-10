@@ -30,7 +30,6 @@ Hobbies: Reading Books, Watching Movies
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/762106459982528552)
 [![GMail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:hannasalam113@gmail.com)
 
-
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-394248?style=for-the-badge&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/hannasalam)
 [![Codechef](https://img.shields.io/badge/Codechef-5d331a?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/hannasalam)
 [![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/hannasalam/)
