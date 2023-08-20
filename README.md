@@ -13,7 +13,7 @@ OS: POP!_OS
 Pronouns: She/Her
 Location: Kerala, India
 Languages: JavaScript, HTML, CSS, C++, C, Python
-Technologies: Django, DRF, Node.js, Express, MongoDB, Google Cloud
+Technologies: Node.js, Express, MongoDB
 IDE/Tools: Linux, VSCode, Postman, Git, Sublime
 Hobbies: Reading Books, Watching Movies
 ```
